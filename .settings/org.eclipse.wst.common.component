@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="test1">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="test1"/>
         <property name="java-output-path" value="/test1/build/classes"/>
+=======
+    <wb-module deploy-name="Queuewise">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Queuewise"/>
+        <property name="java-output-path" value="/Queuewise/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/konno-nachi/2023_sotuken_4.git
     </wb-module>
 </project-modules>

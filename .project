@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>test1</name>
+=======
+	<name>Queuewise</name>
+>>>>>>> branch 'master' of https://github.com/konno-nachi/2023_sotuken_4.git
 	<comment></comment>
 	<projects>
 	</projects>
